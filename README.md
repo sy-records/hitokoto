@@ -7,8 +7,8 @@
 作者地址:[https://qq52o.me/1801.html](https://qq52o.me/1801.html)  
 开发:二次开发 
 开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
-GitHub项目地址:[https://github.com/sy-records/hitokoto](https://github.com/sy-records/hitokoto) 
-码云项目地址:[https://gitee.com/sy-records/hitokoto](https://gitee.com/sy-records/hitokoto)
+GitHub项目地址:[https://github.com/sy-records/hitokoto](https://github.com/sy-records/hitokoto)  
+码云项目地址:[https://gitee.com/sy-records/hitokoto](https://gitee.com/sy-records/hitokoto)  
 版权归作者及原作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
 
