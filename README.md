@@ -1,7 +1,7 @@
 # 一言纯净API
 
 版本:1.0  
-最后更新时间:2018/2/25 20:36 
+最后更新时间:2018/2/25 20:36  
 作者:[沈唁](https://qq52o.me)  
 作者博客:[https://https://qq52o.me](https://https://qq52o.me)  
 作者地址:[https://qq52o.me/1801.html](https://qq52o.me/1801.html)  
