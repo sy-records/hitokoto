@@ -5,7 +5,7 @@
 作者:[沈唁](https://qq52o.me)  
 作者博客:[https://https://qq52o.me](https://https://qq52o.me)  
 作者地址:[https://qq52o.me/1801.html](https://qq52o.me/1801.html)  
-开发:二次开发 
+开发:二次开发  
 开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
 GitHub项目地址:[https://github.com/sy-records/hitokoto](https://github.com/sy-records/hitokoto)  
 码云项目地址:[https://gitee.com/sy-records/hitokoto](https://gitee.com/sy-records/hitokoto)  
